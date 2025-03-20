@@ -62,10 +62,7 @@ Routes will be displayed on an interactive map after computation.
 3. **Commit** your changes (`git commit -m "Added a new feature"`)  
 4. **Push** to your branch (`git push origin feature-branch`)  
 5. **Open a Pull Request** 🚀  
-
-## 📞 Contact  
-💡 **Author:** Balachandhar Sriram  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+ 
 🌍 GitHub: [Balachandharsriram](https://github.com/Balachandharsriram)  
 
 ---  
